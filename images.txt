@@ -10,10 +10,4 @@
 whyour/qinglong:latest
 #icepage/aujc:latest
 #--platform=linux/arm64_v8 icepage/aujc:latest
-anmour/bncr:3.1.0
-anmour/bncr:3.0.9
-anmour/bncr:3.0.7
-anmour/bncr:3.0.0
-anmour/bncr:3.1.1
-anmour/bncr:3.1.2
-whyour/qinglong:2.19
+0xforee/nas-tools
