@@ -13,3 +13,4 @@ whyour/qinglong:latest
 0xforee/nas-tools
 favonia/cloudflare-ddns
 qmcgaw/ddns-updater:v2.8.2
+jeessy/ddns-go
