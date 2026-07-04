@@ -11,3 +11,4 @@ whyour/qinglong:latest
 #icepage/aujc:latest
 #--platform=linux/arm64_v8 icepage/aujc:latest
 0xforee/nas-tools
+favonia/cloudflare-ddns
