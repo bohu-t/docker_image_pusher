@@ -15,3 +15,4 @@ favonia/cloudflare-ddns
 qmcgaw/ddns-updater:v2.8.2
 jeessy/ddns-go
 ronggang/transmission-web-control
+cli-proxy-api
