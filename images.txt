@@ -7,12 +7,12 @@
 #elasticsearch:7.17.24
 #--platform=linux/arm64 linuxserver/jellyfin:10.9.11
 #--platform=linux/arm64 anmour/bncr
-whyour/qinglong:latest
+#whyour/qinglong:latest
 #icepage/aujc:latest
 #--platform=linux/arm64_v8 icepage/aujc:latest
 0xforee/nas-tools
-favonia/cloudflare-ddns
-qmcgaw/ddns-updater:v2.8.2
-jeessy/ddns-go
-ronggang/transmission-web-control
+#favonia/cloudflare-ddns
+#qmcgaw/ddns-updater:v2.8.2
+#jeessy/ddns-go
+#ronggang/transmission-web-control
 cli-proxy-api
